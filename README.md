@@ -1,6 +1,6 @@
 # PDF Querying and Summarization 🐦📄
 
-## Overview
+## 🌟 Overview
 This project is a PDF Querying and Summarization app built using Streamlit. It allows users to upload PDF files, query the content for specific information, and generate concise summaries of the documents. The app utilizes advanced NLP models and embeddings to provide accurate responses and insights.
 
 ![Image 1](https://drive.google.com/uc?export=view&id=1sBULzxYzEVeDpxBTnhQCg5OuXCjsolmy)  ![Image 2](https://drive.google.com/uc?export=view&id=13qAMQdrUB5RYdHK-XUGyqSOHtq-8zb3B)
@@ -23,13 +23,13 @@ This project is a PDF Querying and Summarization app built using Streamlit. It a
 
 ---
 
-## Installation and Setup
+## ⚙️ Installation and Setup
 
-### Prerequisites
+### 📋 Prerequisites
 - Python 3.8 or higher
 - Required libraries: All dependencies are listed in `requirements.txt`.
 
-### Steps
+### 🛠 Steps
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/PDF-Querying-and-Summarization.git
