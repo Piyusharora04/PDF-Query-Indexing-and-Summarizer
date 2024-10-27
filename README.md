@@ -32,8 +32,7 @@ This project is a PDF Querying and Summarization app built using Streamlit. It a
 ### 🛠 Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/PDF-Querying-and-Summarization.git
-   cd PDF-Querying-and-Summarization
+   git clone https://github.com/Piyusharora04/PDF-Query-Indexing-and-Summarizer.git
 2. **Download the La-Mini Model**:
    - Download the model folder [here](https://drive.google.com/drive/folders/1_f8Ni-MGFwEn_aA8Mja5pjOpONFsRwZW?usp=sharing).
 3. **Install dependencies:**:
